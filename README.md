@@ -1,3 +1,11 @@
+## Alunos: 
+- Eric Caetano
+- Felipe da Silva Chawischi
+- Gabriel Felipe Alves Bandoch
+- Joào Guilherma Tamanini Dalmarco
+
+---
+
 # 8 Puzzle — Solver com A*
 
 Implementação interativa do clássico **8 Puzzle** (quebra-cabeça deslizante 3×3) com resolução automática via algoritmo **A\*** e heurística de distância Manhattan.
